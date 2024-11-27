@@ -1,6 +1,6 @@
 # Final-Year-Project
 
-# Analyzing tourists’ perception of hotel location: Text analytics using online reviews
+## Analyzing tourists’ perception of hotel location: Text analytics using online reviews
 This study explores tourists' perceptions of hotel locations in Sri Lanka by analyzing
 online reviews from TripAdvisor, covering the period from August 2023 to August
 2024. Through text analytics, it identifies location-related keywords influencing guest
